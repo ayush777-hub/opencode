@@ -1,5 +1,5 @@
 # opencode
-Competetive coding sitelinks
+Competetive coding account links:
 
 GeekforGeeks account -"https://auth.geeksforgeeks.org/user/ayush10022102/practice/"
 
